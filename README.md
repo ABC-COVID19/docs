@@ -15,7 +15,9 @@ clone application/gateway
 
     https://github.com/ABC-COVID19/API-backoffice.git
 
-# before build prepare environment after reading each repository README.md
+before build
+
+    prepare environment after reading each repository README.md
 
 build application/registry
 
