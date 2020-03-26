@@ -14,7 +14,9 @@ clone application/microservice
 clone application/gateway
 
     https://github.com/ABC-COVID19/API-backoffice.git
-    
+
+# before build prepare environment after reading each repository README.md
+
 build application/registry
 
     ./mvnw
@@ -27,7 +29,9 @@ build application/gateway
 
     ./mvnw
     
-aceder a http://localhost:8080
+URL: http://localhost:8080
+Username: admin
+Password: admin
     
 # Recriação da plataforma (backend + backoffice)
 
