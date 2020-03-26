@@ -53,7 +53,8 @@ gateway
 
     jhipster entity ArticleType --force
     jhipster entity CategoryTree --force
-    jhipster entity PublicationSource --force
-    jhipster entity Article --force
+    jhipster entity ContentSource --force
     jhipster entity Revision --force
+    jhipster entity Article --force
     jhipster entity Newsletter --force
+    
