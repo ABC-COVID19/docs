@@ -49,11 +49,11 @@ microservice
     
     jhipster import-jdl '../backend/model/jhipster-jdl-v1.jh' --force
 
-gateway
+gateway (valid for develop branch. Master is behind)
 
     jhipster entity ArticleType --force
     jhipster entity CategoryTree --force
-    jhipster entity ContentSource --force
+    jhipster entity SourceRepo --force
     jhipster entity Revision --force
     jhipster entity Article --force
     jhipster entity Newsletter --force
