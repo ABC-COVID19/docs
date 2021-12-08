@@ -1,5 +1,18 @@
-# docs
-Repositório para centralização de documentação
+# Sobre o ICAM
+
+Este projeto foi desenvolvido em 2019 (1ª onda covid19 em portugal) por uma equipa de voluntários dentro do movimento #tech4covid19 em colaboração com pessoal do Centro Biomédico do Algarve de acordo com situação descrita abaixo:
+
+- **Factos:**  
+  Todos os dias são publicados artigos científicos com nova informação sobre o coronavírus que pode fazer a diferença para os profissionais.
+- **Problema:**  
+  Os médicos queixam-se da dificuldade de recolher e rever toda a informação à procura de algo que lhes seja relevante.
+- **Solução:**  
+  Plataforma online que:  
+  Recolhe artigos de repositórios específicos  
+  Revisores selecionam artigos relevantes e escrevem sinopses em português.  
+  Acesso público às sinopses.  
+
+Atualmente o projeto encontra-se morto (site offline) e estes repositórios servem apenas de registo histórico caso alguém tenha interesse em aproveitar código / ideias.
 
 # Execução da plataforma em dev
 
